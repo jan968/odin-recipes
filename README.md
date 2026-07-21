@@ -21,6 +21,10 @@ While making this project, I practiced:
 * Organizing files into folders
 * Using Git and GitHub
 
+## Live Preview
+
+[View the live website](https://jan968.github.io/odin-recipes/)
+
 ## View the Project
 
 Clone the repository:
